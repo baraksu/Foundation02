@@ -1,0 +1,16 @@
+C:\Users\bsuberri\source\repos\2023\csharp\Targil01\Targil01\bin\Debug\Targil01.exe.config
+C:\Users\bsuberri\source\repos\2023\csharp\Targil01\Targil01\bin\Debug\Targil01.exe
+C:\Users\bsuberri\source\repos\2023\csharp\Targil01\Targil01\bin\Debug\Targil01.pdb
+C:\Users\bsuberri\source\repos\2023\csharp\Targil01\Targil01\obj\Debug\Targil01.csproj.AssemblyReference.cache
+C:\Users\bsuberri\source\repos\2023\csharp\Targil01\Targil01\obj\Debug\Targil01.csproj.SuggestedBindingRedirects.cache
+C:\Users\bsuberri\source\repos\2023\csharp\Targil01\Targil01\obj\Debug\Targil01.csproj.CoreCompileInputs.cache
+C:\Users\bsuberri\source\repos\2023\csharp\Targil01\Targil01\obj\Debug\Targil01.exe
+C:\Users\bsuberri\source\repos\2023\csharp\Targil01\Targil01\obj\Debug\Targil01.pdb
+C:\Users\bsuberri\Documents\GitHub\2023-CSharp-Targil01\Targil01\bin\Debug\Targil01.exe.config
+C:\Users\bsuberri\Documents\GitHub\2023-CSharp-Targil01\Targil01\bin\Debug\Targil01.exe
+C:\Users\bsuberri\Documents\GitHub\2023-CSharp-Targil01\Targil01\bin\Debug\Targil01.pdb
+C:\Users\bsuberri\Documents\GitHub\2023-CSharp-Targil01\Targil01\obj\Debug\Targil01.csproj.AssemblyReference.cache
+C:\Users\bsuberri\Documents\GitHub\2023-CSharp-Targil01\Targil01\obj\Debug\Targil01.csproj.SuggestedBindingRedirects.cache
+C:\Users\bsuberri\Documents\GitHub\2023-CSharp-Targil01\Targil01\obj\Debug\Targil01.csproj.CoreCompileInputs.cache
+C:\Users\bsuberri\Documents\GitHub\2023-CSharp-Targil01\Targil01\obj\Debug\Targil01.exe
+C:\Users\bsuberri\Documents\GitHub\2023-CSharp-Targil01\Targil01\obj\Debug\Targil01.pdb

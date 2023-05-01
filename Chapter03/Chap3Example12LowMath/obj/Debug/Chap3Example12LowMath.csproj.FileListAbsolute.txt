@@ -1,0 +1,8 @@
+C:\Users\bsuberri\Documents\GitHub\2023-CSharp-Targil01\Chap3Example12LowMath\bin\Debug\Chap3Example12LowMath.exe.config
+C:\Users\bsuberri\Documents\GitHub\2023-CSharp-Targil01\Chap3Example12LowMath\bin\Debug\Chap3Example12LowMath.exe
+C:\Users\bsuberri\Documents\GitHub\2023-CSharp-Targil01\Chap3Example12LowMath\bin\Debug\Chap3Example12LowMath.pdb
+C:\Users\bsuberri\Documents\GitHub\2023-CSharp-Targil01\Chap3Example12LowMath\obj\Debug\Chap3Example12LowMath.csproj.AssemblyReference.cache
+C:\Users\bsuberri\Documents\GitHub\2023-CSharp-Targil01\Chap3Example12LowMath\obj\Debug\Chap3Example12LowMath.csproj.SuggestedBindingRedirects.cache
+C:\Users\bsuberri\Documents\GitHub\2023-CSharp-Targil01\Chap3Example12LowMath\obj\Debug\Chap3Example12LowMath.csproj.CoreCompileInputs.cache
+C:\Users\bsuberri\Documents\GitHub\2023-CSharp-Targil01\Chap3Example12LowMath\obj\Debug\Chap3Example12LowMath.exe
+C:\Users\bsuberri\Documents\GitHub\2023-CSharp-Targil01\Chap3Example12LowMath\obj\Debug\Chap3Example12LowMath.pdb

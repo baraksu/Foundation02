@@ -1,0 +1,8 @@
+C:\Users\bsuberri\Documents\GitHub\2023-CSharp-Targil01\Chap3Example10ChildrensFloor\obj\Debug\Chap3Example10ChildrensFloor.csproj.AssemblyReference.cache
+C:\Users\bsuberri\Documents\GitHub\2023-CSharp-Targil01\Chap3Example10ChildrensFloor\obj\Debug\Chap3Example10ChildrensFloor.csproj.SuggestedBindingRedirects.cache
+C:\Users\bsuberri\Documents\GitHub\2023-CSharp-Targil01\Chap3Example10ChildrensFloor\obj\Debug\Chap3Example10ChildrensFloor.csproj.CoreCompileInputs.cache
+C:\Users\bsuberri\Documents\GitHub\2023-CSharp-Targil01\Chap3Example10ChildrensFloor\bin\Debug\Chap3Example10ChildrensFloor.exe.config
+C:\Users\bsuberri\Documents\GitHub\2023-CSharp-Targil01\Chap3Example10ChildrensFloor\bin\Debug\Chap3Example10ChildrensFloor.exe
+C:\Users\bsuberri\Documents\GitHub\2023-CSharp-Targil01\Chap3Example10ChildrensFloor\bin\Debug\Chap3Example10ChildrensFloor.pdb
+C:\Users\bsuberri\Documents\GitHub\2023-CSharp-Targil01\Chap3Example10ChildrensFloor\obj\Debug\Chap3Example10ChildrensFloor.exe
+C:\Users\bsuberri\Documents\GitHub\2023-CSharp-Targil01\Chap3Example10ChildrensFloor\obj\Debug\Chap3Example10ChildrensFloor.pdb

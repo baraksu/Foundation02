@@ -1,0 +1,8 @@
+C:\Users\bsuberri\Documents\GitHub\2023-CSharp-Targil01\Chap3Example11BuilderArr\bin\Debug\Chap3Example11BuilderArr.exe.config
+C:\Users\bsuberri\Documents\GitHub\2023-CSharp-Targil01\Chap3Example11BuilderArr\bin\Debug\Chap3Example11BuilderArr.exe
+C:\Users\bsuberri\Documents\GitHub\2023-CSharp-Targil01\Chap3Example11BuilderArr\bin\Debug\Chap3Example11BuilderArr.pdb
+C:\Users\bsuberri\Documents\GitHub\2023-CSharp-Targil01\Chap3Example11BuilderArr\obj\Debug\Chap3Example11BuilderArr.csproj.AssemblyReference.cache
+C:\Users\bsuberri\Documents\GitHub\2023-CSharp-Targil01\Chap3Example11BuilderArr\obj\Debug\Chap3Example11BuilderArr.csproj.SuggestedBindingRedirects.cache
+C:\Users\bsuberri\Documents\GitHub\2023-CSharp-Targil01\Chap3Example11BuilderArr\obj\Debug\Chap3Example11BuilderArr.csproj.CoreCompileInputs.cache
+C:\Users\bsuberri\Documents\GitHub\2023-CSharp-Targil01\Chap3Example11BuilderArr\obj\Debug\Chap3Example11BuilderArr.exe
+C:\Users\bsuberri\Documents\GitHub\2023-CSharp-Targil01\Chap3Example11BuilderArr\obj\Debug\Chap3Example11BuilderArr.pdb

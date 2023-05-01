@@ -1,0 +1,8 @@
+C:\Users\bsuberri\Documents\GitHub\2023-CSharp-Targil01\Chap3Example15\bin\Debug\Chap3Example15.exe.config
+C:\Users\bsuberri\Documents\GitHub\2023-CSharp-Targil01\Chap3Example15\bin\Debug\Chap3Example15.exe
+C:\Users\bsuberri\Documents\GitHub\2023-CSharp-Targil01\Chap3Example15\bin\Debug\Chap3Example15.pdb
+C:\Users\bsuberri\Documents\GitHub\2023-CSharp-Targil01\Chap3Example15\obj\Debug\Chap3Example15Students.csproj.AssemblyReference.cache
+C:\Users\bsuberri\Documents\GitHub\2023-CSharp-Targil01\Chap3Example15\obj\Debug\Chap3Example15Students.csproj.SuggestedBindingRedirects.cache
+C:\Users\bsuberri\Documents\GitHub\2023-CSharp-Targil01\Chap3Example15\obj\Debug\Chap3Example15Students.csproj.CoreCompileInputs.cache
+C:\Users\bsuberri\Documents\GitHub\2023-CSharp-Targil01\Chap3Example15\obj\Debug\Chap3Example15.exe
+C:\Users\bsuberri\Documents\GitHub\2023-CSharp-Targil01\Chap3Example15\obj\Debug\Chap3Example15.pdb
