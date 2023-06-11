@@ -1,8 +1,0 @@
-C:\Users\bsuberri\Documents\GitHub\2023-CSharp-Targil01\Chap3Example13A_Students\bin\Debug\Chap3Example13A_Students.exe.config
-C:\Users\bsuberri\Documents\GitHub\2023-CSharp-Targil01\Chap3Example13A_Students\bin\Debug\Chap3Example13A_Students.exe
-C:\Users\bsuberri\Documents\GitHub\2023-CSharp-Targil01\Chap3Example13A_Students\bin\Debug\Chap3Example13A_Students.pdb
-C:\Users\bsuberri\Documents\GitHub\2023-CSharp-Targil01\Chap3Example13A_Students\obj\Debug\Chap3Example13A_Students.csproj.AssemblyReference.cache
-C:\Users\bsuberri\Documents\GitHub\2023-CSharp-Targil01\Chap3Example13A_Students\obj\Debug\Chap3Example13A_Students.csproj.SuggestedBindingRedirects.cache
-C:\Users\bsuberri\Documents\GitHub\2023-CSharp-Targil01\Chap3Example13A_Students\obj\Debug\Chap3Example13A_Students.csproj.CoreCompileInputs.cache
-C:\Users\bsuberri\Documents\GitHub\2023-CSharp-Targil01\Chap3Example13A_Students\obj\Debug\Chap3Example13A_Students.exe
-C:\Users\bsuberri\Documents\GitHub\2023-CSharp-Targil01\Chap3Example13A_Students\obj\Debug\Chap3Example13A_Students.pdb

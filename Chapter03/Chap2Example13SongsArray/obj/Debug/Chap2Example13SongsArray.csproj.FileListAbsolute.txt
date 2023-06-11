@@ -1,8 +1,0 @@
-C:\Users\bsuberri\Documents\GitHub\2023-CSharp-Targil01\Chap2Example13SongsArray\obj\Debug\Chap2Example13SongsArray.csproj.AssemblyReference.cache
-C:\Users\bsuberri\Documents\GitHub\2023-CSharp-Targil01\Chap2Example13SongsArray\obj\Debug\Chap2Example13SongsArray.csproj.SuggestedBindingRedirects.cache
-C:\Users\bsuberri\Documents\GitHub\2023-CSharp-Targil01\Chap2Example13SongsArray\obj\Debug\Chap2Example13SongsArray.csproj.CoreCompileInputs.cache
-C:\Users\bsuberri\Documents\GitHub\2023-CSharp-Targil01\Chap2Example13SongsArray\bin\Debug\Chap2Example13SongsArray.exe.config
-C:\Users\bsuberri\Documents\GitHub\2023-CSharp-Targil01\Chap2Example13SongsArray\bin\Debug\Chap2Example13SongsArray.exe
-C:\Users\bsuberri\Documents\GitHub\2023-CSharp-Targil01\Chap2Example13SongsArray\bin\Debug\Chap2Example13SongsArray.pdb
-C:\Users\bsuberri\Documents\GitHub\2023-CSharp-Targil01\Chap2Example13SongsArray\obj\Debug\Chap2Example13SongsArray.exe
-C:\Users\bsuberri\Documents\GitHub\2023-CSharp-Targil01\Chap2Example13SongsArray\obj\Debug\Chap2Example13SongsArray.pdb

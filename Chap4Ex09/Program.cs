@@ -25,7 +25,7 @@ namespace Chap4Ex09
             int temp;
             for (int row = 0; row < m.GetLength(0); row++)
             {
-                for (int col = row; col < m.GetLength(1); col++)
+                for (int col = row + 1; col < m.GetLength(1); col++)
                 {
                     temp = m[row,col];
                     m[row,col] = m[col,row];
@@ -58,10 +58,10 @@ namespace Chap4Ex09
 
             for (int row = 0; row < m.GetLength(0); row++)
             {
-                for (int col = 0; col < m.GetLength(1); col++)
+                for (int col = row + 1 ; col < m.GetLength(1); col++)
                 {
-                    under += m[row,col];
-                    over += m[col,row];
+                    over += m[row,col];
+                    under += m[col,row];
                 }
 
 

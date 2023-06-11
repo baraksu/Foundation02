@@ -1,3 +1,0 @@
-C:\Users\bsuberri\Documents\GitHub\2023-CSharp-Targil01\Array_Part_03\obj\Debug\Array_Part_03.csproj.AssemblyReference.cache
-C:\Users\bsuberri\Documents\GitHub\2023-CSharp-Targil01\Array_Part_03\obj\Debug\Array_Part_03.csproj.SuggestedBindingRedirects.cache
-C:\Users\bsuberri\Documents\GitHub\2023-CSharp-Targil01\Array_Part_03\obj\Debug\Array_Part_03.csproj.CoreCompileInputs.cache

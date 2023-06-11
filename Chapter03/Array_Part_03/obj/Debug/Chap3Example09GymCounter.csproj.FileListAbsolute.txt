@@ -1,8 +1,0 @@
-C:\Users\bsuberri\Documents\GitHub\2023-CSharp-Targil01\Array_Part_03\obj\Debug\Chap3Example09GymCounter.csproj.AssemblyReference.cache
-C:\Users\bsuberri\Documents\GitHub\2023-CSharp-Targil01\Array_Part_03\obj\Debug\Chap3Example09GymCounter.csproj.SuggestedBindingRedirects.cache
-C:\Users\bsuberri\Documents\GitHub\2023-CSharp-Targil01\Array_Part_03\obj\Debug\Chap3Example09GymCounter.csproj.CoreCompileInputs.cache
-C:\Users\bsuberri\Documents\GitHub\2023-CSharp-Targil01\Array_Part_03\bin\Debug\Array_Part_03.exe.config
-C:\Users\bsuberri\Documents\GitHub\2023-CSharp-Targil01\Array_Part_03\bin\Debug\Array_Part_03.exe
-C:\Users\bsuberri\Documents\GitHub\2023-CSharp-Targil01\Array_Part_03\bin\Debug\Array_Part_03.pdb
-C:\Users\bsuberri\Documents\GitHub\2023-CSharp-Targil01\Array_Part_03\obj\Debug\Array_Part_03.exe
-C:\Users\bsuberri\Documents\GitHub\2023-CSharp-Targil01\Array_Part_03\obj\Debug\Array_Part_03.pdb

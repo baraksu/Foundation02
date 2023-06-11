@@ -1,8 +1,0 @@
-C:\Users\bsuberri\Documents\GitHub\2023-CSharp-Targil01\Array01\bin\Debug\Array01.exe.config
-C:\Users\bsuberri\Documents\GitHub\2023-CSharp-Targil01\Array01\bin\Debug\Array01.exe
-C:\Users\bsuberri\Documents\GitHub\2023-CSharp-Targil01\Array01\bin\Debug\Array01.pdb
-C:\Users\bsuberri\Documents\GitHub\2023-CSharp-Targil01\Array01\obj\Debug\Array01.csproj.AssemblyReference.cache
-C:\Users\bsuberri\Documents\GitHub\2023-CSharp-Targil01\Array01\obj\Debug\Array01.csproj.SuggestedBindingRedirects.cache
-C:\Users\bsuberri\Documents\GitHub\2023-CSharp-Targil01\Array01\obj\Debug\Array01.csproj.CoreCompileInputs.cache
-C:\Users\bsuberri\Documents\GitHub\2023-CSharp-Targil01\Array01\obj\Debug\Array01.exe
-C:\Users\bsuberri\Documents\GitHub\2023-CSharp-Targil01\Array01\obj\Debug\Array01.pdb
