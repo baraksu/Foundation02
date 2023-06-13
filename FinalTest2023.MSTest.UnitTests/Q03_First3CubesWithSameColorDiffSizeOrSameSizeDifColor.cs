@@ -1,29 +1,30 @@
 ﻿using FinalTest2023.Q03;
-using Xunit;
+using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace FinalTest2023.Xunit.UnitTests
 {
+    [TestClass]
     public class Q03_First3CubesWithSameColorDiffSizeOrSameSizeDifColor
     {
-        [Fact]
+        [TestMethod]
         public void CubeTowerFirst3Cubes_LessThan3_ReturnFalse()
         {
             CubeTower cubeTower = new CubeTower(0, new Cube[8]);
 
             bool result = cubeTower.First3CubesWithSameColorDiffSizeOrSameSizeDifColor();
 
-            Assert.False(result);
+            Assert.IsFalse(result);
         }
-        [Fact]
+        [TestMethod]
         public void CubeTowerFirst3Cubes_Null_ReturnFalse()
         {
             CubeTower cubeTower = new CubeTower(0, null);
 
             bool result = cubeTower.First3CubesWithSameColorDiffSizeOrSameSizeDifColor();
 
-            Assert.False(result);
+            Assert.IsFalse(result);
         }
-        [Fact]
+        [TestMethod]
         public void CubeTowerFirst3Cubes_SameColorDiffSize_ReturnTrue()
         {
             Cube[] cubes =
@@ -38,8 +39,8 @@ namespace FinalTest2023.Xunit.UnitTests
 
             bool result = cubeTower.First3CubesWithSameColorDiffSizeOrSameSizeDifColor();
 
-            Assert.True(result);
-        }[Fact]
+            Assert.IsTrue(result);
+        }[TestMethod]
         public void CubeTowerFirst3Cubes_SameSizeDiffColor_ReturnTrue()
         {
             Cube[] cubes =
@@ -54,9 +55,9 @@ namespace FinalTest2023.Xunit.UnitTests
 
             bool result = cubeTower.First3CubesWithSameColorDiffSizeOrSameSizeDifColor();
 
-            Assert.True(result);
+            Assert.IsTrue(result);
         }
-        [Fact]
+        [TestMethod]
         public void CubeTowerFirst3Cubes_SameSizeSameColor_ReturnTrue()
         {
             Cube[] cubes =
@@ -71,9 +72,9 @@ namespace FinalTest2023.Xunit.UnitTests
 
             bool result = cubeTower.First3CubesWithSameColorDiffSizeOrSameSizeDifColor();
 
-            Assert.False(result);
+            Assert.IsFalse(result);
         }
-        [Fact]
+        [TestMethod]
         public void CubeTowerFirst3Cubes_DiffSizeDiffColor_ReturnTrue()
         {
             Cube[] cubes =
@@ -88,7 +89,7 @@ namespace FinalTest2023.Xunit.UnitTests
 
             bool result = cubeTower.First3CubesWithSameColorDiffSizeOrSameSizeDifColor();
 
-            Assert.False(result);
+            Assert.IsFalse(result);
         }
     }
 }

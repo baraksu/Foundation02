@@ -1,11 +1,6 @@
-﻿using Chap3Example13SongsArray;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System;
 
-namespace Chap3Example13SongsArray
+namespace Chap2Example13SongsArray
 {
     public class Chap3Exmple13Songs
     {

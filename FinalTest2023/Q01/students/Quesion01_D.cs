@@ -1,4 +1,4 @@
-﻿namespace FinalTest2023
+﻿namespace FinalTest2023.Q01.students
 {
     public class Quesion01_D
     {

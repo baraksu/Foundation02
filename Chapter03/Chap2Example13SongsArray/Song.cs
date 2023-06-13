@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Chap3Example13SongsArray
+﻿namespace Chap2Example13SongsArray
 {
     public class Song
     {

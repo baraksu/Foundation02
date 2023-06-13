@@ -1,12 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using FinalTest2023;
+﻿using FinalTest2023.Q01;
 using Xunit;
 
-namespace TestingFinalTest
+namespace FinalTest2023.Xunit.UnitTests
 {
     
     public class Q01_Quesion01Tests

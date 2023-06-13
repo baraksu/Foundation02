@@ -1,26 +1,27 @@
 ﻿using FinalTest2023.Q02;
-using Xunit;
+using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace FinalTest2023.Xunit.UnitTests
 {
+    [TestClass]
     public class Q02_InOneOfDiagonalTests
     {
-        [Fact]
+        [TestMethod]
         public void InOneOfDiagonal_null_ReturnTrue()
         {
             bool result = InOneOfDiagonalClass.AllArrayInOneOfDiagonal(null);
 
-            Assert.True(result);
+            Assert.IsTrue(result);
         }
-        [Fact]
+        [TestMethod]
         public void InOneOfDiagonal_NoItems_ReturnTrue()
         {
             int[,] arr = new int [0, 0];
             bool result = InOneOfDiagonalClass.AllArrayInOneOfDiagonal(arr);
 
-            Assert.True(result);
+            Assert.IsTrue(result);
         }
-        [Fact]
+        [TestMethod]
         public void InOneOfDiagonal_OneItem_ReturnTrue()
         {
             int[,] arr = new int[1, 1];
@@ -28,10 +29,10 @@ namespace FinalTest2023.Xunit.UnitTests
 
             bool result = InOneOfDiagonalClass.AllArrayInOneOfDiagonal(arr);
 
-            Assert.True(result);
+            Assert.IsTrue(result);
         }
 
-        [Fact]
+        [TestMethod]
         public void InOneOfDiagonal_ItemIn_ReturnTrue()
         {
             int[,] arr = { { 1, 2, 3 }, { 2, 3, 1 }, { 3, 1, 2 } };
@@ -39,10 +40,10 @@ namespace FinalTest2023.Xunit.UnitTests
 
             bool result = InOneOfDiagonalClass.AllArrayInOneOfDiagonal(arr);
 
-            Assert.True(result);
+            Assert.IsTrue(result);
         }
 
-        [Fact]
+        [TestMethod]
         public void InOneOfDiagonal_ItemNotIn_ReturnTrue()
         {
             int[,] arr = { { 1, 4,2 }, { 2, 3, 1 }, { 3, 1, 2 } };
@@ -50,7 +51,7 @@ namespace FinalTest2023.Xunit.UnitTests
 
             bool result = InOneOfDiagonalClass.AllArrayInOneOfDiagonal(arr);
 
-            Assert.False(result);
+            Assert.IsFalse(result);
         }
     }
 }

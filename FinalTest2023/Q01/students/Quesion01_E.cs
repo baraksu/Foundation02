@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace FinalTest2023
+﻿namespace FinalTest2023.Q01.students
 {
     public class Quesion01_e
     {
