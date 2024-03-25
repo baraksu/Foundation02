@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Targil01")]
+[assembly: AssemblyTitle("Gim2019")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("OptimalPlus")]
-[assembly: AssemblyProduct("Targil01")]
+[assembly: AssemblyProduct("Gim2019")]
 [assembly: AssemblyCopyright("Copyright © OptimalPlus 2023")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("7c04bef4-94f6-4443-8557-6583537f8e46")]
+[assembly: Guid("77e1dcd0-56f3-44b9-a9ce-58297d69ad41")]
 
 // Version information for an assembly consists of the following four values:
 //

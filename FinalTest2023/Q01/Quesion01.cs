@@ -7,7 +7,7 @@
            
             if (arr == null)
             {
-                return true;
+                return false;
 
             }
 

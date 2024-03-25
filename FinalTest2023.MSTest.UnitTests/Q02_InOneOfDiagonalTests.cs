@@ -44,7 +44,7 @@ namespace FinalTest2023.Xunit.UnitTests
         }
 
         [TestMethod]
-        public void InOneOfDiagonal_ItemNotIn_ReturnTrue()
+        public void InOneOfDiagonal_ItemNotIn_ReturnFalse()
         {
             int[,] arr = { { 1, 4,2 }, { 2, 3, 1 }, { 3, 1, 2 } };
 

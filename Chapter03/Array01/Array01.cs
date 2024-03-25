@@ -16,16 +16,11 @@ namespace Array01
 
             //Definition
 
-
             int[] array01 = new int[5];
             int[] array02;
             array02 = new int[5];
 
-            //// more options C# 3
-            int[] array03 = { 1, 2, 3, 4, 5 };
-
-
-
+            
             // item in the Array [0 - (length-1)]
 
             int num1 = array01[3];
@@ -87,6 +82,7 @@ namespace Array01
             }
         }
 
+        
         private static void Quesion3Page38()
         {
             double[] heights = new double[20];

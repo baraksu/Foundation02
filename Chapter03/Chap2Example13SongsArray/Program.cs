@@ -31,7 +31,7 @@ namespace Chap2Example13SongsArray
             double avg = sum / songs.Length;
             for (int i = 0; i < songs.Length; i++)
             {
-                if (avg > songs[i].GetLength())
+                if (avg < songs[i].GetLength())
                     Console.WriteLine(songs[i].GetName());
             }
         }

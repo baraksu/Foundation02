@@ -1,24 +1,29 @@
-﻿namespace Chap2Example13SongsArray
+﻿using System.Security.AccessControl;
+
+namespace Chap2Example13SongsArray
 {
     public class Song
     {
-        private string _name;
-        private string _singer;
-        private int _length;
+        private string name;
+        private string singer;
+        private int length;
        
 
         public Song(string name, int length, string singer)
         {
-            this._name = name;
-            this._length = length;
-            this._singer = singer;
+            this.name = name;
+            this.length = length;
+            this.singer = singer;
         }
 
         public int GetLength()
         {
-            return _length;
+            return length;
         }
         public string GetName()
-        { return _name; }
+        { return name; }
+
+        
+
     }
 }

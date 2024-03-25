@@ -138,14 +138,13 @@ namespace FinalTest2023.Xunit.UnitTests
         [DataRow(new int[] { 6, 4, 5, 5 }, false)]
         [DataRow(new int[] { 6, 4, 5, 5 }, false)]
         [DataRow(new int[] { 5 }, true)]
-        [DataRow(new int[] { 5 ,6, 3,1 }, true)]
-
+        [DataRow(new int[] { 5 ,6, 3,1 }, false)]
         public void Quesion01_ArrayIsZigzag_ReturnExpected(int[] arr, bool expectedResult)
         {
 
             var actualResult = Quesion01.IsZigzag(arr);
 
-            Assert.AreEqual(expectedResult, expectedResult);
+            Assert.AreEqual(expectedResult, actualResult);
         }
 
 
