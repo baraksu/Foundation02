@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace GetNumbersWhenSumOfDigitsGreaterThanNum
 {
-    internal class Program
+    public class Program
     {
         static void Main(string[] args)
         {
@@ -43,6 +43,9 @@ namespace GetNumbersWhenSumOfDigitsGreaterThanNum
                     counter++;
                 }
             }
+            if (counter == 0)
+                return null;
+
             int[] result = new int[counter];
             int j = 0;
             for (int i = 0; i < arr.Length; i++)

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Bagrut2023Q02
 {
-    internal class Program
+    public class Bagrut2023Q02Main
     {
         static void Main(string[] args)
         {

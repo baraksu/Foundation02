@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Bagrut2023Q02Main")]
+[assembly: AssemblyTitle("Bagrut2023")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("NI")]
-[assembly: AssemblyProduct("Bagrut2023Q02Main")]
+[assembly: AssemblyProduct("Bagrut2023")]
 [assembly: AssemblyCopyright("Copyright © NI 2024")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("3c522a83-a648-4902-a491-7ef9cf13879c")]
+[assembly: Guid("dfb4f1bb-a0cb-4bfd-b717-6d895b62cf7e")]
 
 // Version information for an assembly consists of the following four values:
 //
