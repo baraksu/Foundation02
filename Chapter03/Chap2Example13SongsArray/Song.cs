@@ -20,10 +20,14 @@ namespace Chap2Example13SongsArray
         {
             return length;
         }
+
+        public void SetLength(int length)
+        {
+            this.length = length;
+        }
         public string GetName()
         { return name; }
 
-        
 
     }
 }

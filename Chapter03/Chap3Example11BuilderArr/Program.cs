@@ -27,6 +27,8 @@ namespace Chap3Example11BuilderArr
             {
                 Console.WriteLine(numbers[i]);
             }
+
+            Console.ReadKey();
         }
     }
 }

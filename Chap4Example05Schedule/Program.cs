@@ -57,7 +57,7 @@ namespace Chap4Example05Schedule
 
         public static void Main(string[] args)
         {
-            Lesson[,] m = new Lesson[2, 2]; // יצירת מערך של עצמים
+            Lesson[,] m = new Lesson[10, 6]; // יצירת מערך של עצמים
             string maxSubj = "";
             int hours = -1;
             int maxHours = -1;

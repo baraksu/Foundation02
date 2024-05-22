@@ -4,6 +4,7 @@ namespace Chap2Example13SongsArray
 {
     public class Chap3Exmple13Songs
     {
+       
         public static void Main(string[] args)// הפעולה הראשית // 
         {
             Song[] songs = new Song[10];
@@ -23,17 +24,25 @@ namespace Chap2Example13SongsArray
             }
 
             //חישוב ממוצע אורכי השירים //
-            double sum = 0;
-            for (int i = 0; i < songs.Length; i++)
-            {
-                sum = sum + songs[i].GetLength();
-            }
-            double avg = sum / songs.Length;
+            var avg = GetAvg(songs);
+
             for (int i = 0; i < songs.Length; i++)
             {
                 if (avg < songs[i].GetLength())
                     Console.WriteLine(songs[i].GetName());
             }
         }
+        private static double GetAvg(Song[] songs)
+        {
+            double sum = 0;
+            for (int i = 0; i < songs.Length; i++)
+            {
+                sum = sum + songs[i].GetLength();
+            }
+            double avg = sum / songs.Length;
+            return avg;
+        }
+
+
     }
 }

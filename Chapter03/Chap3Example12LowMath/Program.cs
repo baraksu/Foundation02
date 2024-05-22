@@ -50,9 +50,8 @@ namespace Chap3Example12LowMath
             Console.WriteLine("Test2");
             int[] grd2 = Kelet();
             int[] grd3 = Below60(grd1, grd2);
-            for (int i = 0;
-        i < grd3.Length;
-        i++) Console.WriteLine(grd3[i]);
+            for (int i = 0; i < grd3.Length; i++)
+                Console.WriteLine(grd3[i]);
         }
     }
 }

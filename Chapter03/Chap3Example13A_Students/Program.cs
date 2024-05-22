@@ -46,21 +46,21 @@ namespace Chap3Example13A_Students
     }
     class Student
     {
-        private string _name;
-        private int _id;
+        private string name;
+        private int id;
 
         public Student(int id, string name)
         {
-            _name = name;
-            _id = id;
+            this.name = name;
+            this.id = id;
         }
         public string GetName()
         {
-            return _name;
+            return name;
         }
-        public int getId()
+        public int GetId()
         {
-            return _id;
+            return id;
         }
     }
 }
